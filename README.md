@@ -43,7 +43,7 @@
     <!-- Header Section -->
 <header class="header">
     <img src="PROJECT/BIT Durg College_files/bitdruglogo.png" alt="BIT Durg Logo">
-    <img src="tej.png" alt="IEEE Logo">
+    <img src="PROJECT/BIT Durg College_files/tej.png" alt="IEEE Logo">
     <!-- New IEE Logo -->
     <img src="PROJECT/BIT Durg College_files/iee.png" alt="IEE Logo">
   
