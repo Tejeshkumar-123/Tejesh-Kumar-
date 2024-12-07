@@ -7,7 +7,7 @@
     <!-- CSS Framework -->
     <link rel="stylesheet" href="PROJECT/BIT Durg College_files/bootstrap.min.css">
     <link rel="stylesheet" href="PROJECT/BIT Durg College_files/all.min.css">
-    <link href="css2" rel="stylesheet">
+    <link href="PROJECT/BIT Durg College_files/css2" rel="stylesheet">
     <style>
         body {
             font-family: 'Roboto', sans-serif;
