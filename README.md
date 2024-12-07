@@ -167,7 +167,7 @@
                 </button>
             </div>
             <div class="modal-body">
-                <img src="images/DrJohnDoe.png" alt="Dr. John Doe" class="img-fluid" style="max-height: 500px; object-fit: cover;">
+                <img src="DrJohnDoe.png" alt="Dr. John Doe" class="img-fluid" style="max-height: 500px; object-fit: cover;">
             </div>
         </div>
     </div>
@@ -183,7 +183,7 @@
                 </button>
             </div>
             <div class="modal-body">
-                <img src="images/DrJaneSmith.png" alt="Dr. Jane Smith" class="img-fluid" style="max-height: 500px; object-fit: cover;">
+                <img src="DrJaneSmith.png" alt="Dr. Jane Smith" class="img-fluid" style="max-height: 500px; object-fit: cover;">
             </div>
         </div>
     </div>
@@ -199,7 +199,7 @@
                 </button>
             </div>
             <div class="modal-body">
-                <img src="images/ProfAliceGreen.png" alt="Prof. Alice Green" class="img-fluid" style="max-height: 500px; object-fit: cover;">
+                <img src="ProfAliceGreen.png" alt="Prof. Alice Green" class="img-fluid" style="max-height: 500px; object-fit: cover;">
             </div>
         </div>
     </div>
