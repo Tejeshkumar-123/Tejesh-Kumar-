@@ -247,9 +247,9 @@
    <!-- Grievances Section -->
 <section class="grievances container my-5">
     <h2 class="text-center">Grievances &amp; Feedback</h2>
-  <!-- Feedback Form -->
+ <!-- Feedback Form -->
 <h3>Event Feedback</h3>
-<form action="PROJECT/index.html" method="POST" id="feedback-form">
+<form id="feedback-form" action="PROJECT/index.html" method="POST">
     <label for="feedback">Your Feedback</label>
     <textarea id="feedback" name="feedback" class="form-control" rows="4" required></textarea>
     <button type="submit" class="btn btn-success mt-3">Submit</button>
@@ -257,25 +257,27 @@
 
 <!-- Complaint Form -->
 <h3 class="mt-5">Report Complaints</h3>
-<form action="PROJECT/index.html" method="POST" id="complaint-form">
+<form id="complaint-form" action="PROJECT/index.html" method="POST">
     <label for="complaint">Your Complaint</label>
     <textarea id="complaint" name="complaint" class="form-control" rows="4" required></textarea>
     <button type="submit" class="btn btn-danger mt-3">Submit</button>
 </form>
 
 <script>
-// Optional: Validate or handle form submission with JavaScript if necessary
+// JavaScript to handle the form submission (if needed)
 document.getElementById('feedback-form').addEventListener('submit', function(event) {
-    // Add custom validation if needed
-    // Prevent default behavior if necessary (e.g., to submit via AJAX)
-    // event.preventDefault();
+    // You can add custom validation here
+    // If needed, prevent default form submission with event.preventDefault();
+    console.log('Feedback form submitted');
 });
 
 document.getElementById('complaint-form').addEventListener('submit', function(event) {
-    // Add custom validation if needed
-    // event.preventDefault(); // Uncomment if you want to prevent default submit
+    // You can add custom validation here
+    // If needed, prevent default form submission with event.preventDefault();
+    console.log('Complaint form submitted');
 });
 </script>
+
 
 </section>
 
