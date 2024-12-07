@@ -34,36 +34,115 @@
         <img src="PROJECT/BIT Durg College_files/iee.png" alt="IEE Logo" style="width: 150px;">
         <h1>BIT DURG COLLEGE</h1>
     </header>
+<!-- Events Section -->
+<section class="events container my-5">
+    <h2 class="text-center">Upcoming Events</h2>
+    <div class="row">
+        <!-- Event 1 -->
+        <div class="col-md-4 mb-4">
+            <div class="card shadow-lg" style="border-radius: 10px; background-color: #e9f7fb;">
+                <img src="image1.jpg" class="card-img-top" alt="Event 1" style="border-radius: 10px 10px 0 0; height: 250px; object-fit: cover;">
+                <div class="card-body">
+                    <h5 class="card-title text-center" style="color: #007bff;">Event Title 1</h5>
+                    <p class="card-text text-center" style="font-size: 16px; color: #555;">
+                        <strong>Date:</strong> 25th December 2024<br>
+                        <strong>Time:</strong> 10:00 AM<br>
+                        <strong>Location:</strong> BIT Durg Auditorium
+                    </p>
+                    <div class="text-center">
+                        <button class="btn btn-primary" data-toggle="modal" data-target="#eventModal1" style="background-color: #007bff; border-color: #007bff;">View Details</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- Event 2 -->
+        <div class="col-md-4 mb-4">
+            <div class="card shadow-lg" style="border-radius: 10px; background-color: #f1f1f1;">
+                <img src="image2.jpg" class="card-img-top" alt="Event 2" style="border-radius: 10px 10px 0 0; height: 250px; object-fit: cover;">
+                <div class="card-body">
+                    <h5 class="card-title text-center" style="color: #00447C;">Event Title 2</h5>
+                    <p class="card-text text-center" style="font-size: 16px; color: #555;">
+                        <strong>Date:</strong> 10th January 2025<br>
+                        <strong>Time:</strong> 2:00 PM<br>
+                        <strong>Location:</strong> BIT Durg Auditorium
+                    </p>
+                    <div class="text-center">
+                        <button class="btn btn-primary" data-toggle="modal" data-target="#eventModal2" style="background-color: #00447C; border-color: #00447C;">View Details</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- Event 3 -->
+        <div class="col-md-4 mb-4">
+            <div class="card shadow-lg" style="border-radius: 10px; background-color: #f9e2e2;">
+                <img src="image3.jpg" class="card-img-top" alt="Event 3" style="border-radius: 10px 10px 0 0; height: 250px; object-fit: cover;">
+                <div class="card-body">
+                    <h5 class="card-title text-center" style="color: #d9534f;">Event Title 3</h5>
+                    <p class="card-text text-center" style="font-size: 16px; color: #555;">
+                        <strong>Date:</strong> 15th February 2025<br>
+                        <strong>Time:</strong> 4:00 PM<br>
+                        <strong>Location:</strong> BIT Durg Auditorium
+                    </p>
+                    <div class="text-center">
+                        <button class="btn btn-primary" data-toggle="modal" data-target="#eventModal3" style="background-color: #d9534f; border-color: #d9534f;">View Details</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
 
-    <!-- About Section -->
-    <section class="about container text-center my-5">
-        <h2>About BIT Durg</h2>
-        <p>
-            Established in 1986, BIT Durg (Bhilai Institute of Technology, Durg) is a premier institution 
-            dedicated to excellence in education, research, and innovation. Nestled in the heart of Chhattisgarh, 
-            BIT Durg offers state-of-the-art facilities, a dynamic curriculum, and a vibrant academic environment 
-            that fosters holistic development. It is recognized for producing industry-ready professionals and 
-            nurturing the next generation of leaders in technology and management.
-        </p>
-        <p>
-            The college is affiliated with Chhattisgarh Swami Vivekanand Technical University (CSVTU) and is accredited by 
-            the National Board of Accreditation (NBA) and NAAC, ensuring the highest standards in education. 
-            BIT Durg is renowned for its academic rigor, vibrant cultural ecosystem, and commitment to innovation and social responsibility.
-        </p>
-        <h3>Achievements</h3>
-        <ul class="list-unstyled">
-            <li><strong>Top Engineering Institution:</strong> Ranked among the top engineering colleges in Central India.</li>
-            <li><strong>Innovation Hub:</strong> Over 50 patents filed and several innovative projects recognized at the national level.</li>
-            <li><strong>Placement Success:</strong> Consistent record of 90%+ placements in top companies like TCS, Infosys, Wipro, and Accenture.</li>
-            <li><strong>Industry Collaboration:</strong> Partnerships with leading companies and institutions for research and training.</li>
-            <li><strong>Active IEEE Chapter:</strong> The college hosts an active IEEE Student Branch and Computer Society, promoting technological advancements.</li>
-            <li><strong>Extracurricular Excellence:</strong> Students excel in technical, cultural, and sports competitions at regional and national levels.</li>
-            <li><strong>Community Impact:</strong> Initiatives like rural education programs and environmental drives positively impact society.</li>
-        </ul>
-        <a href="https://docs.google.com/forms/d/e/1FAIpQLSfmXcexHxCwYxz92vJwqkiWzTcUj0v3qRQRLhD6UnFvb6WusQ/viewform?usp=sf_link" class="btn btn-primary" target="_blank" rel="noopener noreferrer">
-            Register for IEEE
-        </a>
-    </section>
+    <!-- Modals for Event Details -->
+    <!-- Modal for Event 1 -->
+    <div class="modal fade" id="eventModal1" tabindex="-1" role="dialog" aria-labelledby="eventModalLabel1" aria-hidden="true">
+        <div class="modal-dialog" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title" id="eventModalLabel1">Event Title 1 - Details</h5>
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">×</span>
+                    </button>
+                </div>
+                <div class="modal-body">
+                    <p><strong>Details:</strong> Description of Event 1...</p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Modal for Event 2 -->
+    <div class="modal fade" id="eventModal2" tabindex="-1" role="dialog" aria-labelledby="eventModalLabel2" aria-hidden="true">
+        <div class="modal-dialog" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title" id="eventModalLabel2">Event Title 2 - Details</h5>
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">×</span>
+                    </button>
+                </div>
+                <div class="modal-body">
+                    <p><strong>Details:</strong> Description of Event 2...</p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Modal for Event 3 -->
+    <div class="modal fade" id="eventModal3" tabindex="-1" role="dialog" aria-labelledby="eventModalLabel3" aria-hidden="true">
+        <div class="modal-dialog" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title" id="eventModalLabel3">Event Title 3 - Details</h5>
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">×</span>
+                    </button>
+                </div>
+                <div class="modal-body">
+                    <p><strong>Details:</strong> Description of Event 3...</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
 
     <!-- Office Bearers Section -->
     <section class="OFFICE-BEARERS container my-5">
