@@ -247,13 +247,14 @@
    <!-- Grievances Section -->
 <section class="grievances container my-5">
     <h2 class="text-center">Grievances &amp; Feedback</h2>
- <!-- Feedback Form -->
+<!-- Feedback Form -->
 <h3>Event Feedback</h3>
-<form id="feedback-form" action="PROJECT/index.html" method="POST">
+<form action="PROJECT/index.html" method="POST">
     <label for="feedback">Your Feedback</label>
     <textarea id="feedback" name="feedback" class="form-control" rows="4" required></textarea>
     <button type="submit" class="btn btn-success mt-3">Submit</button>
 </form>
+
 
 <!-- Complaint Form -->
 <h3 class="mt-5">Report Complaints</h3>
