@@ -119,7 +119,7 @@
             </div>
         </div>
 
-     <!-- Faculty 2 -->
+  
 <div class="col-md-4 mb-4">
     <div class="card shadow-lg" style="border-radius: 10px; background-color: #e9f7fb;">
         <img src="Dr. Jane Smith.PNG" class="card-img-top" alt="Dr. Jane Smith" style="border-radius: 10px 10px 0 0; height: 250px; object-fit: cover;">
