@@ -105,7 +105,7 @@
         <!-- Faculty 1 -->
         <div class="col-md-4 mb-4">
             <div class="card shadow-lg" style="border-radius: 10px; background-color: #f1f1f1;">
-                <img src="faculty1.jpg" class="card-img-top" alt="Dr. John Doe" style="border-radius: 10px 10px 0 0; height: 250px; object-fit: cover;">
+                <img src="Dr. John Doe.PNG" class="card-img-top" alt="Dr. John Doe" style="border-radius: 10px 10px 0 0; height: 250px; object-fit: cover;">
                 <div class="card-body">
                     <h5 class="card-title text-center" style="color: #00447C;">Dr. John Doe</h5>
                     <p class="card-text text-center" style="font-size: 16px; color: #555;">
@@ -122,7 +122,7 @@
         <!-- Faculty 2 -->
         <div class="col-md-4 mb-4">
             <div class="card shadow-lg" style="border-radius: 10px; background-color: #e9f7fb;">
-                <img src="faculty2.PNG)" class="card-img-top" alt="Dr. Jane Smith" style="border-radius: 10px 10px 0 0; height: 250px; object-fit: cover;">
+                <img src=""Dr. Jane Smith.PNG)" class="card-img-top" alt="Dr. Jane Smith" style="border-radius: 10px 10px 0 0; height: 250px; object-fit: cover;">
                 <div class="card-body">
                     <h5 class="card-title text-center" style="color: #007bff;">Dr. Jane Smith</h5>
                     <p class="card-text text-center" style="font-size: 16px; color: #555;">
@@ -139,7 +139,7 @@
         <!-- Faculty 3 -->
         <div class="col-md-4 mb-4">
             <div class="card shadow-lg" style="border-radius: 10px; background-color: #f9e2e2;">
-                <img src="faculty3.jpg" class="card-img-top" alt="Prof. Alice Green" style="border-radius: 10px 10px 0 0; height: 250px; object-fit: cover;">
+                <img src="Prof. Alice Green.PNG" class="card-img-top" alt="Prof. Alice Green" style="border-radius: 10px 10px 0 0; height: 250px; object-fit: cover;">
                 <div class="card-body">
                     <h5 class="card-title text-center" style="color: #d9534f;">Prof. Alice Green</h5>
                     <p class="card-text text-center" style="font-size: 16px; color: #555;">
@@ -258,9 +258,9 @@
 </section>
 
 <!-- Include Bootstrap JS, Popper.js, and jQuery for other functionalities -->
-<script src="./TEJESH_files/jquery-3.5.1.slim.min.js.download"></script>
-<script src="./TEJESH_files/popper.min.js.download"></script>
-<script src="./TEJESH_files/bootstrap.min.js.download"></script>
+<script src="jquery-3.5.1.slim.min.js.download"></script>
+<script src="popper.min.js.download"></script>
+<script src="bootstrap.min.js.download"></script>
 
 
     <!-- Grievances Section -->
@@ -268,7 +268,7 @@
         <h2 class="text-center">Grievances &amp; Feedback</h2>
         <!-- Feedback Form -->
         <h3>Event Feedback</h3>
-        <form action="file:///C:/Users/Tejesh/OneDrive/Desktop/PROJECT/TEJESH.HTML#" method="POST">
+        <form action="TEJESH.HTML#" method="POST">
             <label for="feedback">Your Feedback</label>
             <textarea id="feedback" name="feedback" class="form-control" rows="4" required=""></textarea>
             <button type="submit" class="btn btn-success mt-3">Submit</button>
@@ -276,7 +276,7 @@
 
         <!-- Complaint Form -->
         <h3 class="mt-5">Report Complaints</h3>
-        <form action="file:///C:/Users/Tejesh/OneDrive/Desktop/PROJECT/TEJESH.HTML#" method="POST">
+        <form action="TEJESH.HTML#" method="POST">
             <label for="complaint">Your Complaint</label>
             <textarea id="complaint" name="complaint" class="form-control" rows="4" required=""></textarea>
             <button type="submit" class="btn btn-danger mt-3">Submit</button>
@@ -289,7 +289,7 @@
     </footer>
 
     <!-- Bootstrap JS -->
-    <script src="./TEJESH_files/bootstrap.bundle.min.js.download"></script>
+    <script src="bootstrap.bundle.min.js.download"></script>
 
 
 </body></html>
