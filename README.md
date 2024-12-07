@@ -96,16 +96,17 @@
        Register for IEEE
     </a>
 </section>
+<!-- Include Bootstrap CSS -->
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/css/bootstrap.min.css" rel="stylesheet">
 
-
-   <!-- Office Bearers Section -->
+<!-- Office Bearers Section -->
 <section class="OFFICE-BEARERS container my-5">
     <h2 class="text-center">Office Bearers</h2>
     <div class="row">
         <!-- Faculty 1 -->
         <div class="col-md-4 mb-4">
             <div class="card shadow-lg" style="border-radius: 10px; background-color: #f1f1f1;">
-                <img src="Dr. John Doe.PNG" class="card-img-top" alt="Dr. John Doe" style="border-radius: 10px 10px 0 0; height: 250px; object-fit: cover;">
+                <img src="images/faculty1.jpg" class="card-img-top" alt="Dr. John Doe" style="border-radius: 10px 10px 0 0; height: 250px; object-fit: cover;">
                 <div class="card-body">
                     <h5 class="card-title text-center" style="color: #00447C;">Dr. John Doe</h5>
                     <p class="card-text text-center" style="font-size: 16px; color: #555;">
@@ -119,43 +120,43 @@
             </div>
         </div>
 
-  
-<div class="col-md-4 mb-4">
-    <div class="card shadow-lg" style="border-radius: 10px; background-color: #e9f7fb;">
-        <img src="Dr. Jane Smith.PNG" class="card-img-top" alt="Dr. Jane Smith" style="border-radius: 10px 10px 0 0; height: 250px; object-fit: cover;">
-        <div class="card-body">
-            <h5 class="card-title text-center" style="color: #007bff;">Dr. Jane Smith</h5>
-            <p class="card-text text-center" style="font-size: 16px; color: #555;">
-                <strong>Position:</strong> Associate Professor, Department of Electronics<br>
-                <strong>Education:</strong> MTech in Electronics from XYZ University
-            </p>
-            <div class="text-center">
-                <button class="btn btn-primary" data-toggle="modal" data-target="#facultyModal2" style="background-color: #007bff; border-color: #007bff;">View Profile</button>
+        <!-- Faculty 2 -->
+        <div class="col-md-4 mb-4">
+            <div class="card shadow-lg" style="border-radius: 10px; background-color: #e9f7fb;">
+                <img src="images/faculty2.jpg" class="card-img-top" alt="Dr. Jane Smith" style="border-radius: 10px 10px 0 0; height: 250px; object-fit: cover;">
+                <div class="card-body">
+                    <h5 class="card-title text-center" style="color: #007bff;">Dr. Jane Smith</h5>
+                    <p class="card-text text-center" style="font-size: 16px; color: #555;">
+                        <strong>Position:</strong> Associate Professor, Department of Electronics<br>
+                        <strong>Education:</strong> MTech in Electronics from XYZ University
+                    </p>
+                    <div class="text-center">
+                        <button class="btn btn-primary" data-toggle="modal" data-target="#facultyModal2" style="background-color: #007bff; border-color: #007bff;">View Profile</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Faculty 3 -->
+        <div class="col-md-4 mb-4">
+            <div class="card shadow-lg" style="border-radius: 10px; background-color: #f9e2e2;">
+                <img src="images/faculty3.jpg" class="card-img-top" alt="Prof. Alice Green" style="border-radius: 10px 10px 0 0; height: 250px; object-fit: cover;">
+                <div class="card-body">
+                    <h5 class="card-title text-center" style="color: #d9534f;">Prof. Alice Green</h5>
+                    <p class="card-text text-center" style="font-size: 16px; color: #555;">
+                        <strong>Position:</strong> Professor, Department of Civil Engineering<br>
+                        <strong>Education:</strong> PhD in Structural Engineering from DEF University
+                    </p>
+                    <div class="text-center">
+                        <button class="btn btn-primary" data-toggle="modal" data-target="#facultyModal3" style="background-color: #d9534f; border-color: #d9534f;">View Profile</button>
+                    </div>
+                </div>
             </div>
         </div>
     </div>
-</div>
-
-<!-- Faculty 3 -->
-<div class="col-md-4 mb-4">
-    <div class="card shadow-lg" style="border-radius: 10px; background-color: #f9e2e2;">
-        <img src="Prof. Alice Green.PNG" class="card-img-top" alt="Prof. Alice Green" style="border-radius: 10px 10px 0 0; height: 250px; object-fit: cover;">
-        <div class="card-body">
-            <h5 class="card-title text-center" style="color: #d9534f;">Prof. Alice Green</h5>
-            <p class="card-text text-center" style="font-size: 16px; color: #555;">
-                <strong>Position:</strong> Professor, Department of Civil Engineering<br>
-                <strong>Education:</strong> PhD in Structural Engineering from DEF University
-            </p>
-            <div class="text-center">
-                <button class="btn btn-primary" data-toggle="modal" data-target="#facultyModal3" style="background-color: #d9534f; border-color: #d9534f;">View Profile</button>
-            </div>
-        </div>
-    </div>
-</div>
-
+</section>
 
 <!-- Modals for Faculty Profiles -->
-<!-- Modal for Dr. John Doe -->
 <div class="modal fade" id="facultyModal1" tabindex="-1" role="dialog" aria-labelledby="facultyModalLabel1" aria-hidden="true">
     <div class="modal-dialog" role="document">
         <div class="modal-content">
@@ -166,13 +167,12 @@
                 </button>
             </div>
             <div class="modal-body">
-                <img src="./TEJESH_files/Dr. John Doe.png" alt="Dr. John Doe" class="img-fluid" style="max-height: 500px; object-fit: cover;">
+                <img src="images/DrJohnDoe.png" alt="Dr. John Doe" class="img-fluid" style="max-height: 500px; object-fit: cover;">
             </div>
         </div>
     </div>
 </div>
 
-<!-- Modal for Dr. Jane Smith -->
 <div class="modal fade" id="facultyModal2" tabindex="-1" role="dialog" aria-labelledby="facultyModalLabel2" aria-hidden="true">
     <div class="modal-dialog" role="document">
         <div class="modal-content">
@@ -183,13 +183,12 @@
                 </button>
             </div>
             <div class="modal-body">
-                <img src="./TEJESH_files/Dr. Jane Smith.png" alt="Dr. Jane Smith" class="img-fluid" style="max-height: 500px; object-fit: cover;">
+                <img src="images/DrJaneSmith.png" alt="Dr. Jane Smith" class="img-fluid" style="max-height: 500px; object-fit: cover;">
             </div>
         </div>
     </div>
 </div>
 
-<!-- Modal for Prof. Alice Green -->
 <div class="modal fade" id="facultyModal3" tabindex="-1" role="dialog" aria-labelledby="facultyModalLabel3" aria-hidden="true">
     <div class="modal-dialog" role="document">
         <div class="modal-content">
@@ -200,11 +199,16 @@
                 </button>
             </div>
             <div class="modal-body">
-                <img src="./TEJESH_files/Prof. Alice Green.png" alt="Prof. Alice Green" class="img-fluid" style="max-height: 500px; object-fit: cover;">
+                <img src="images/ProfAliceGreen.png" alt="Prof. Alice Green" class="img-fluid" style="max-height: 500px; object-fit: cover;">
             </div>
         </div>
     </div>
 </div>
+
+<!-- Include Bootstrap JS -->
+<script src="https://code.jquery.com/jquery-3.6.4.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/js/bootstrap.bundle.min.js"></script>
+
 
 <!-- Events Section -->
 <section class="events container my-5">
