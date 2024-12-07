@@ -2,42 +2,44 @@
 <!-- saved from url=(0060)[PROJECT/index.html](https://github.com/Tejeshkumar-123/Tejesh-Kumar-/blob/main/PROJECT/index.html.html) -->
 <html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>BIT Durg College</title>
-    <!-- CSS Framework -->
-    <link rel="stylesheet" href="[PROJECT/BIT Durg College_files/bootstrap.min.css](https://github.com/Tejeshkumar-123/Tejesh-Kumar-/blob/main/PROJECT/BIT%20Durg%20College_files/bootstrap.min.css)">
-    <link rel="stylesheet" href="[PROJECT/BIT Durg College_files/all.min.css](https://github.com/Tejeshkumar-123/Tejesh-Kumar-/blob/main/PROJECT/BIT%20Durg%20College_files/all.min.css)">
-    <link href="[PROJECT/BIT Durg College_files/css2" rel="stylesheet](https://github.com/Tejeshkumar-123/Tejesh-Kumar-/blob/main/PROJECT/BIT%20Durg%20College_files/css2)">
-    <style>
-        body {
-            font-family: 'Roboto', sans-serif;
-            margin: 0;
-            padding: 0;
-        }
-        .header {
-            background: #00447C;
-            color: white;
-            text-align: center;
-            padding: 20px 10px;
-        }
-        .header img {
-            max-height: 80px;
-            margin-right: 20px;
-        }
-        .about {
-            background: #f9f9f9;
-            padding: 30px;
-        }
-        .office-bearers .card {
-            margin: 15px 0;
-        }
-        .grievances form {
-            background: #fff;
-            padding: 20px;
-            border-radius: 8px;
-            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
-        }
-    </style>
+    
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>BIT Durg College</title>
+<!-- CSS Framework -->
+<link rel="stylesheet" href="https://raw.githubusercontent.com/Tejeshkumar-123/Tejesh-Kumar-/main/PROJECT/BIT%20Durg%20College_files/bootstrap.min.css">
+<link rel="stylesheet" href="https://raw.githubusercontent.com/Tejeshkumar-123/Tejesh-Kumar-/main/PROJECT/BIT%20Durg%20College_files/all.min.css">
+<link href="https://raw.githubusercontent.com/Tejeshkumar-123/Tejesh-Kumar-/main/PROJECT/BIT%20Durg%20College_files/css2" rel="stylesheet">
+<style>
+    body {
+        font-family: 'Roboto', sans-serif;
+        margin: 0;
+        padding: 0;
+    }
+    .header {
+        background: #00447C;
+        color: white;
+        text-align: center;
+        padding: 20px 10px;
+    }
+    .header img {
+        max-height: 80px;
+        margin-right: 20px;
+    }
+    .about {
+        background: #f9f9f9;
+        padding: 30px;
+    }
+    .office-bearers .card {
+        margin: 15px 0;
+    }
+    .grievances form {
+        background: #fff;
+        padding: 20px;
+        border-radius: 8px;
+        box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    }
+</style>
+
 </head>
 <body>
     <!-- Header Section -->
