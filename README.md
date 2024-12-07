@@ -6,7 +6,7 @@
     <title>BIT Durg College</title>
     <!-- CSS Framework -->
     <link rel="stylesheet" href="bootstrap.min.css">
-    <link rel="stylesheet" href="all.min.css">
+    <link rel="stylesheet" href="PROJECT/BIT Durg College_files/all.min.css">
     <link href="css2" rel="stylesheet">
     <style>
         body {
