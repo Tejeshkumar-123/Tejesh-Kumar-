@@ -122,7 +122,7 @@
         <!-- Faculty 2 -->
         <div class="col-md-4 mb-4">
             <div class="card shadow-lg" style="border-radius: 10px; background-color: #e9f7fb;">
-                <img src="file:///C:/Users/Tejesh/OneDrive/Desktop/PROJECT/faculty2.jpg" class="card-img-top" alt="Dr. Jane Smith" style="border-radius: 10px 10px 0 0; height: 250px; object-fit: cover;">
+                <img src="[file:///C:/Users/Tejesh/OneDrive/Desktop/PROJECT/faculty2.jpg](https://github.com/Tejeshkumar-123/Tejesh-Kumar-/blob/main/Dr.%20Jane%20Smith.PNG)" class="card-img-top" alt="Dr. Jane Smith" style="border-radius: 10px 10px 0 0; height: 250px; object-fit: cover;">
                 <div class="card-body">
                     <h5 class="card-title text-center" style="color: #007bff;">Dr. Jane Smith</h5>
                     <p class="card-text text-center" style="font-size: 16px; color: #555;">
