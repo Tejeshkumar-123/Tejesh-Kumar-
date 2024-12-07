@@ -249,9 +249,9 @@
     <h2 class="text-center">Grievances &amp; Feedback</h2>
 <!-- Feedback Form -->
 <h3>Event Feedback</h3>
-<form action="PROJECT/index.html" method="POST">
-    <label for="feedback">Your Feedback</label>
-    <textarea> id="feedback" name="feedback" class="form-control" rows="4" required></textarea>
+<form> action="PROJECT/index.html" method="POST">
+    <label> for="feedback"Your Feedback</label>
+    <textarea> id="feedback" name="feedback" class="form-control" rows="4" required</textarea>
     <button type="submit" class="btn btn-success mt-3">Submit</button>
 </form>
 
@@ -260,7 +260,7 @@
 <h3 class="mt-5">Report Complaints</h3>
 <form id="complaint-form" action="PROJECT/index.html" method="POST">
     <label for="complaint">Your Complaint</label>
-    <textarea id="complaint" name="complaint" class="form-control" rows="4" required></textarea>
+    <textarea> id="complaint" name="complaint" class="form-control" rows="4" required></textarea>
     <button type="submit" class="btn btn-danger mt-3">Submit</button>
 </form>
 
