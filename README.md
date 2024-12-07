@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>BIT Durg College</title>
     <!-- CSS Framework -->
-    <link rel="stylesheet" href="PROJECT/BIT Durg College_files/bootstrap.min.css">
+    <link rel="stylesheet" href="[PROJECT/BIT Durg College_files/bootstrap.min.css](https://github.com/Tejeshkumar-123/Tejesh-Kumar-/blob/main/PROJECT/BIT%20Durg%20College_files/bootstrap.min.css)">
     <link rel="stylesheet" href="PROJECT/BIT Durg College_files/all.min.css">
     <link href="PROJECT/BIT Durg College_files/css2" rel="stylesheet">
     <style>
