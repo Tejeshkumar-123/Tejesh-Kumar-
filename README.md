@@ -5,9 +5,9 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>BIT Durg College</title>
     <!-- CSS Framework -->
-    <link rel="stylesheet" href="./TEJESH_files/bootstrap.min.css">
-    <link rel="stylesheet" href="./TEJESH_files/all.min.css">
-    <link href="./TEJESH_files/css2" rel="stylesheet">
+    <link rel="stylesheet" href="bootstrap.min.css">
+    <link rel="stylesheet" href="all.min.css">
+    <link href="css2" rel="stylesheet">
     <style>
         body {
             font-family: 'Roboto', sans-serif;
@@ -105,7 +105,7 @@
         <!-- Faculty 1 -->
         <div class="col-md-4 mb-4">
             <div class="card shadow-lg" style="border-radius: 10px; background-color: #f1f1f1;">
-                <img src="file:///C:/Users/Tejesh/OneDrive/Desktop/PROJECT/faculty1.jpg" class="card-img-top" alt="Dr. John Doe" style="border-radius: 10px 10px 0 0; height: 250px; object-fit: cover;">
+                <img src="faculty1.jpg" class="card-img-top" alt="Dr. John Doe" style="border-radius: 10px 10px 0 0; height: 250px; object-fit: cover;">
                 <div class="card-body">
                     <h5 class="card-title text-center" style="color: #00447C;">Dr. John Doe</h5>
                     <p class="card-text text-center" style="font-size: 16px; color: #555;">
@@ -122,7 +122,7 @@
         <!-- Faculty 2 -->
         <div class="col-md-4 mb-4">
             <div class="card shadow-lg" style="border-radius: 10px; background-color: #e9f7fb;">
-                <img src="[file:///C:/Users/Tejesh/OneDrive/Desktop/PROJECT/faculty2.jpg](https://github.com/Tejeshkumar-123/Tejesh-Kumar-/blob/main/Dr.%20Jane%20Smith.PNG)" class="card-img-top" alt="Dr. Jane Smith" style="border-radius: 10px 10px 0 0; height: 250px; object-fit: cover;">
+                <img src="faculty2.PNG)" class="card-img-top" alt="Dr. Jane Smith" style="border-radius: 10px 10px 0 0; height: 250px; object-fit: cover;">
                 <div class="card-body">
                     <h5 class="card-title text-center" style="color: #007bff;">Dr. Jane Smith</h5>
                     <p class="card-text text-center" style="font-size: 16px; color: #555;">
@@ -139,7 +139,7 @@
         <!-- Faculty 3 -->
         <div class="col-md-4 mb-4">
             <div class="card shadow-lg" style="border-radius: 10px; background-color: #f9e2e2;">
-                <img src="file:///C:/Users/Tejesh/OneDrive/Desktop/PROJECT/faculty3.jpg" class="card-img-top" alt="Prof. Alice Green" style="border-radius: 10px 10px 0 0; height: 250px; object-fit: cover;">
+                <img src="faculty3.jpg" class="card-img-top" alt="Prof. Alice Green" style="border-radius: 10px 10px 0 0; height: 250px; object-fit: cover;">
                 <div class="card-body">
                     <h5 class="card-title text-center" style="color: #d9534f;">Prof. Alice Green</h5>
                     <p class="card-text text-center" style="font-size: 16px; color: #555;">
@@ -230,9 +230,9 @@
     <p class="text-center">You can find all the event posters on the <a href="https://bitdurg.ac.in/" target="_blank" style="color: #007bff;">college website</a>. These posters highlight the various academic and extracurricular activities organized by the college.</p>
     <div class="d-flex justify-content-center">
         <!-- Event 1 Poster -->
-        <img src="./TEJESH_files/event1.png" alt="Event 1 Poster" style="width: 200px; margin-right: 20px;">
+        <img src="event1.png" alt="Event 1 Poster" style="width: 200px; margin-right: 20px;">
         <!-- Event 2 Poster -->
-        <img src="./TEJESH_files/event2.png" alt="Event 2 Poster" style="width: 200px;">
+        <img src="event2.png" alt="Event 2 Poster" style="width: 200px;">
     </div>
 </div>
 
