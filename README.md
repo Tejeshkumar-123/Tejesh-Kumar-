@@ -45,7 +45,7 @@
     <img src="./TEJESH_files/bitdruglogo.png" alt="BIT Durg Logo">
     <img src="./TEJESH_files/tej.png" alt="IEEE Logo">
     <!-- New IEE Logo -->
-    <img src="file:///C:/Users/Tejesh/OneDrive/Desktop/PROJECT/iee.png" alt="IEE Logo">
+    <img src="iee.png" alt="IEE Logo">
   
     <h1>BIT DURG COLLEGE</h1>
 </header>
