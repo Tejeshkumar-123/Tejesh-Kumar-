@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<!-- saved from url=(0060)file:///C:/Users/Tejesh/OneDrive/Desktop/PROJECT/TEJESH.HTML -->
+<!-- saved from url=TEJESH.HTML -->
 <html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -43,7 +43,7 @@
   <!-- Header Section -->
 <header class="header">
     <img src="bitdruglogo.png">
-    <img src="./TEJESH_files/tej.png" alt="IEEE Logo">
+    <img src="tej.png"IEEE Logo">
     <!-- New IEE Logo -->
     <img src="iee.png" alt="IEE Logo">
   
