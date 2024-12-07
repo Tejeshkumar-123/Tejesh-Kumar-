@@ -290,7 +290,7 @@
     </footer>
 
     <!-- Bootstrap JS -->
-    <script src="bootstrap.bundle.min.js.download"></script>
+    <script src="PROJECT/BIT Durg College_files/bootstrap.bundle.min.js.download"></script>
 
 
 </body></html>
