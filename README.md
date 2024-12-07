@@ -244,33 +244,35 @@
 <script src=PROJECT/BIT Durg College_files/bootstrap.min.js.download"></script>
 
 
-    <!-- Grievances Section -->
-    <section class="grievances container my-5">
-        <h2 class="text-center">Grievances &amp; Feedback</h2>
-        <!-- Feedback Form -->
-        <h3>Event Feedback</h3>
-        <form action="PROJECT/index.html" method="POST">
-            <label for="feedback">Your Feedback</label>
-            <textarea id="feedback" name="feedback" class="form-control" rows="4" required=""></textarea>
-            <button type="submit" class="btn btn-success mt-3">Submit</button>
-        </form>
+   <!-- Grievances Section -->
+<section class="grievances container my-5">
+    <h2 class="text-center">Grievances &amp; Feedback</h2>
 
-        <!-- Complaint Form -->
-        <h3 class="mt-5">Report Complaints</h3>
-        <form action="PROJECT/index.html" method="POST">
-            <label for="complaint">Your Complaint</label>
-            <textarea id="complaint" name="complaint" class="form-control" rows="4" required=""></textarea>
-            <button type="submit" class="btn btn-danger mt-3">Submit</button>
-        </form>
-    </section>
+    <!-- Feedback Form -->
+    <h3>Event Feedback</h3>
+    <form action="PROJECT/index.html" method="POST">
+        <label for="feedback">Your Feedback</label>
+        <textarea id="feedback" name="feedback" class="form-control" rows="4" required></textarea>
+        <button type="submit" class="btn btn-success mt-3">Submit</button>
+    </form>
 
-    <!-- Footer -->
-    <footer class="text-center py-3 bg-dark text-light">
-        © 2024 BIT Durg College. All rights reserved.
-    </footer>
+    <!-- Complaint Form -->
+    <h3 class="mt-5">Report Complaints</h3>
+    <form action="PROJECT/index.html" method="POST">
+        <label for="complaint">Your Complaint</label>
+        <textarea id="complaint" name="complaint" class="form-control" rows="4" required></textarea>
+        <button type="submit" class="btn btn-danger mt-3">Submit</button>
+    </form>
+</section>
 
-    <!-- Bootstrap JS -->
-    <script src="PROJECT/BIT Durg College_files/bootstrap.bundle.min.js.download"></script>
+<!-- Footer -->
+<footer class="text-center py-3 bg-dark text-light">
+    © 2024 BIT Durg College. All rights reserved.
+</footer>
+
+<!-- Bootstrap JS -->
+<script src="PROJECT/BIT Durg College_files/bootstrap.bundle.min.js"></script>
+
 
 
 </body></html>
