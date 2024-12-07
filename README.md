@@ -233,7 +233,7 @@
         <!-- Event 1 Poster -->
         <img src="PROJECT/BIT Durg College_files/event1.png" alt="Event 1 Poster" style="width: 200px; margin-right: 20px;">
         <!-- Event 2 Poster -->
-        <img src="event2.png" alt="Event 2 Poster" style="width: 200px;">
+        <img src="PROJECT/BIT Durg College_files/event2.png" alt="Event 2 Poster" style="width: 200px;">
     </div>
 </div>
 
