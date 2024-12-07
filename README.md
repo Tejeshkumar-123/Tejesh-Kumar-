@@ -1,13 +1,13 @@
 <!DOCTYPE html>
-<!-- saved from url=(0060)file:///C:/Users/Tejesh/OneDrive/Desktop/PROJECT/TEJESH.HTML -->
+<!-- saved from url=(0060)index.HTML -->
 <html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>BIT Durg College</title>
     <!-- CSS Framework -->
-    <link rel="stylesheet" href="./TEJESH_files/bootstrap.min.css">
-    <link rel="stylesheet" href="./TEJESH_files/all.min.css">
-    <link href="./TEJESH_files/css2" rel="stylesheet">
+    <link rel="stylesheet" href="bootstrap.min.css">
+    <link rel="stylesheet" href="all.min.css">
+    <link href="css2" rel="stylesheet">
     <style>
         body {
             font-family: 'Roboto', sans-serif;
