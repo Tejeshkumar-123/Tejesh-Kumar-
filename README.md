@@ -185,7 +185,7 @@
                 </button>
             </div>
             <div class="modal-body">
-                <img src="Dr. Jane Smith.png" alt="Dr. Jane Smith" class="img-fluid" style="max-height: 500px; object-fit: cover;">
+                <img src="PROJECT/BIT Durg College_files/Dr. Jane Smith.png" alt="Dr. Jane Smith" class="img-fluid" style="max-height: 500px; object-fit: cover;">
             </div>
         </div>
     </div>
