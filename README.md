@@ -3,47 +3,33 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>BIT Durg College</title>
-    <style>
-        body {
-            font-family: 'Roboto', sans-serif;
-            margin: 0;
-            padding: 0;
-        }
-        .header {
-            background: #00447C;
-            color: white;
-            text-align: center;
-            padding: 20px 10px;
-        }
-        .header img {
-            max-height: 80px;
-            margin-right: 20px;
-        }
-        .about {
-            background: #f9f9f9;
-            padding: 30px;
-        }
-        .office-bearers .card {
-            margin: 15px 0;
-        }
-        .grievances form {
-            background: #fff;
-            padding: 20px;
-            border-radius: 8px;
-            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-        }
-    </style>
+    <title>Event Details</title>
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
 </head>
 <body>
-    <div class="header">
-        <h1>Welcome to BIT Durg College</h1>
-    </div>
-    <div class="about">
-        <p>BIT Durg is a premier institution offering quality education in various fields.</p>
+    <div class="container mt-4">
+        <!-- Oath Taking Ceremony -->
+        <div class="event-box mb-4 p-4 shadow-lg" style="background-color: #f9f9f9; border-radius: 10px;">
+            <h3 class="text-center" style="color: #00447C;">Oath Taking Ceremony</h3>
+            <p><strong>Description:</strong> The Oath Taking Ceremony was conducted successfully, marking the official beginning of the new academic year. Students, faculty, and staff took part in this ceremony to reaffirm their commitment to academic excellence and ethical conduct.</p>
+        </div>
+
+        <!-- Company in Focus -->
+        <div class="event-box mb-4 p-4 shadow-lg" style="background-color: #e9f7fb; border-radius: 10px;">
+            <h3 class="text-center" style="color: #007bff;">Company in Focus</h3>
+            <p><strong>Description:</strong> In this session, students were introduced to the top industry players in various fields, providing valuable insights into the current trends, job opportunities, and career growth. Industry leaders shared their experiences, offering practical knowledge to all attendees.</p>
+        </div>
+
+        <!-- Event Posters -->
+        <div class="event-box mb-4 p-4 shadow-lg" style="background-color: #fef9e7; border-radius: 10px;">
+            <h3 class="text-center" style="color: #ff9900;">Event Posters</h3>
+            <p><strong>Description:</strong> Vibrant posters highlighting the themes of various events were displayed across the campus, adding a touch of excitement and visual appeal to the atmosphere.</p>
+        </div>
     </div>
 </body>
 </html>
+
 
 </head>
 <body>
