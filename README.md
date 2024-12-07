@@ -261,7 +261,7 @@
 <!-- Include Bootstrap JS, Popper.js, and jQuery for other functionalities -->
 <script src="jquery-3.5.1.slim.min.js.download"></script>
 <script src="popper.min.js.download"></script>
-<script src="bootstrap.min.js.download"></script>
+<script src=PROJECT/BIT Durg College_files/bootstrap.min.js.download"></script>
 
 
     <!-- Grievances Section -->
