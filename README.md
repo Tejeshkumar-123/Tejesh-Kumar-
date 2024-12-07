@@ -247,22 +247,36 @@
    <!-- Grievances Section -->
 <section class="grievances container my-5">
     <h2 class="text-center">Grievances &amp; Feedback</h2>
+  <!-- Feedback Form -->
+<h3>Event Feedback</h3>
+<form action="PROJECT/index.html" method="POST" id="feedback-form">
+    <label for="feedback">Your Feedback</label>
+    <textarea id="feedback" name="feedback" class="form-control" rows="4" required></textarea>
+    <button type="submit" class="btn btn-success mt-3">Submit</button>
+</form>
 
-    <!-- Feedback Form -->
-    <h3>Event Feedback</h3>
-    <form action="PROJECT/index.html" method="POST">
-        <label for="feedback">Your Feedback</label>
-        <textarea id="feedback" name="feedback" class="form-control" rows="4" required></textarea>
-        <button type="submit" class="btn btn-success mt-3">Submit</button>
-    </form>
+<!-- Complaint Form -->
+<h3 class="mt-5">Report Complaints</h3>
+<form action="PROJECT/index.html" method="POST" id="complaint-form">
+    <label for="complaint">Your Complaint</label>
+    <textarea id="complaint" name="complaint" class="form-control" rows="4" required></textarea>
+    <button type="submit" class="btn btn-danger mt-3">Submit</button>
+</form>
 
-    <!-- Complaint Form -->
-    <h3 class="mt-5">Report Complaints</h3>
-    <form action="PROJECT/index.html" method="POST">
-        <label for="complaint">Your Complaint</label>
-        <textarea id="complaint" name="complaint" class="form-control" rows="4" required></textarea>
-        <button type="submit" class="btn btn-danger mt-3">Submit</button>
-    </form>
+<script>
+// Optional: Validate or handle form submission with JavaScript if necessary
+document.getElementById('feedback-form').addEventListener('submit', function(event) {
+    // Add custom validation if needed
+    // Prevent default behavior if necessary (e.g., to submit via AJAX)
+    // event.preventDefault();
+});
+
+document.getElementById('complaint-form').addEventListener('submit', function(event) {
+    // Add custom validation if needed
+    // event.preventDefault(); // Uncomment if you want to prevent default submit
+});
+</script>
+
 </section>
 
 <!-- Footer -->
