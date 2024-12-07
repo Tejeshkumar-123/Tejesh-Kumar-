@@ -202,7 +202,7 @@
                 </button>
             </div>
             <div class="modal-body">
-                <img src="Prof. Alice Green.png" alt="Prof. Alice Green" class="img-fluid" style="max-height: 500px; object-fit: cover;">
+                <img src="PROJECT/BIT Durg College_files/Prof. Alice Green.png" alt="Prof. Alice Green" class="img-fluid" style="max-height: 500px; object-fit: cover;">
             </div>
         </div>
     </div>
