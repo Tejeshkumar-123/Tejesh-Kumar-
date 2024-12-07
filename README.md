@@ -231,7 +231,7 @@
     <p class="text-center">You can find all the event posters on the <a href="https://bitdurg.ac.in/" target="_blank" style="color: #007bff;">college website</a>. These posters highlight the various academic and extracurricular activities organized by the college.</p>
     <div class="d-flex justify-content-center">
         <!-- Event 1 Poster -->
-        <img src="event1.png" alt="Event 1 Poster" style="width: 200px; margin-right: 20px;">
+        <img src="PROJECT/BIT Durg College_files/event1.png" alt="Event 1 Poster" style="width: 200px; margin-right: 20px;">
         <!-- Event 2 Poster -->
         <img src="event2.png" alt="Event 2 Poster" style="width: 200px;">
     </div>
