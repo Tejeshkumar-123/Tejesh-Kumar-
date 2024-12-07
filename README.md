@@ -3,11 +3,67 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>BITDRUG COLLEGE</title>
-    <!-- Bootstrap CSS -->
-    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <title>Event Details</title>
+    <!-- Include Bootstrap CSS for styling -->
+    <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f8f9fa;
+        }
+        .event-box {
+            margin: 20px;
+            padding: 20px;
+            border-radius: 10px;
+            background-color: #fff;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+        }
+    </style>
+</head>
+<body>
+    <div class="container mt-4">
+        <!-- Oath Taking Ceremony -->
+        <div class="event-box shadow-lg" style="background-color: #f9f9f9;">
+            <h3 class="text-center" style="color: #00447C;">Oath Taking Ceremony</h3>
+            <p><strong>Description:</strong> The Oath Taking Ceremony was conducted successfully, marking the official beginning of the new academic year. Students, faculty, and staff took part in this ceremony to reaffirm their commitment to academic excellence and ethical conduct.</p>
+        </div>
 
-  
+        <!-- Company in Focus -->
+        <div class="event-box shadow-lg" style="background-color: #e9f7fb;">
+            <h3 class="text-center" style="color: #007bff;">Company in Focus</h3>
+            <p><strong>Description:</strong> In this session, students were introduced to the top industry players in various fields, providing valuable insights into the current trends, job opportunities, and career growth. Industry leaders shared their experiences, offering practical knowledge to all attendees.</p>
+        </div>
+
+        <!-- Event Posters -->
+        <div class="event-box shadow-lg" style="background-color: #fef9e7;">
+            <h3 class="text-center" style="color: #ff9900;">Event Posters</h3>
+            <p><strong>Description:</strong> Vibrant posters highlighting the themes of various events were displayed across the campus, adding a touch of excitement and visual appeal to the atmosphere.</p>
+        </div>
+
+        <!-- Event Details -->
+        <div class="event-box shadow-lg" style="background-color: #f1f1f1;">
+            <h3 class="text-center" style="color: #d9534f;">Event Details</h3>
+            <ul style="list-style-type: none; padding: 0;">
+                <li><strong>Date:</strong> 15th December 2024</li>
+                <li><strong>Time:</strong> 10:00 AM to 1:00 PM</li>
+                <li><strong>Venue:</strong> College Auditorium</li>
+                <li><strong>Registration List:</strong> 150 participants registered for the event</li>
+            </ul>
+            <p><strong>Description:</strong> The event will be centered on enhancing industry-academic collaboration and providing real-world exposure to the students through workshops and guest lectures. This event is designed to inspire and empower students to pursue innovative career paths.</p>
+        </div>
+
+        <!-- Resource Person -->
+        <div class="event-box shadow-lg" style="background-color: #f9e2e2;">
+            <h3 class="text-center" style="color: #d9534f;">Resource Person</h3>
+            <p><strong>Chief Guest:</strong> Mr. Rajesh Kumar, CEO of XYZ Corporation<br>
+            <strong>Guest Speaker:</strong> Dr. Priya Sharma, Director of Research, ABC Technologies</p>
+        </div>
+    </div>
+</body>
+</html>
+
       
 
 </head>
