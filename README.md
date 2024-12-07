@@ -3,9 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Event Details</title>
-    <!-- Include Bootstrap CSS for styling -->
-    <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
+    <title>Event Details</title> <!-- Title is placed correctly in the head -->
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -20,7 +18,13 @@
             background-color: #fff;
             box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
         }
-    </style>
+    </style> <!-- Style block placed correctly in the head -->
+</head>
+<body>
+    <!-- Body content goes here -->
+</body>
+</html>
+
 </head>
 <body>
     <!-- Header Section -->
