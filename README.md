@@ -1,5 +1,4 @@
-
- <!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -32,7 +31,7 @@
             background: #fff;
             padding: 20px;
             border-radius: 8px;
-            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
         }
     </style>
 </head>
@@ -41,12 +40,10 @@
         <h1>Welcome to BIT Durg College</h1>
     </div>
     <div class="about">
-        <p>About the College: BIT Durg is a premier institution offering quality education in various fields.</p>
+        <p>BIT Durg is a premier institution offering quality education in various fields.</p>
     </div>
 </body>
 </html>
-
-
 
 </head>
 <body>
