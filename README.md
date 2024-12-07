@@ -106,7 +106,7 @@
         <!-- Faculty 1 -->
         <div class="col-md-4 mb-4">
             <div class="card shadow-lg" style="border-radius: 10px; background-color: #f1f1f1;">
-                <img src="faculty1.jpg" class="card-img-top" alt="Dr. John Doe" style="border-radius: 10px 10px 0 0; height: 250px; object-fit: cover;">
+                <img src="PROJECT/BIT Durg College_files/Dr. John Doe.png" class="card-img-top" alt="Dr. John Doe" style="border-radius: 10px 10px 0 0; height: 250px; object-fit: cover;">
                 <div class="card-body">
                     <h5 class="card-title text-center" style="color: #00447C;">Dr. John Doe</h5>
                     <p class="card-text text-center" style="font-size: 16px; color: #555;">
@@ -119,42 +119,40 @@
                 </div>
             </div>
         </div>
-
-        <!-- Faculty 2 -->
-        <div class="col-md-4 mb-4">
-            <div class="card shadow-lg" style="border-radius: 10px; background-color: #e9f7fb;">
-                <img src="faculty2.jpg" class="card-img-top" alt="Dr. Jane Smith" style="border-radius: 10px 10px 0 0; height: 250px; object-fit: cover;">
-                <div class="card-body">
-                    <h5 class="card-title text-center" style="color: #007bff;">Dr. Jane Smith</h5>
-                    <p class="card-text text-center" style="font-size: 16px; color: #555;">
-                        <strong>Position:</strong> Associate Professor, Department of Electronics<br>
-                        <strong>Education:</strong> MTech in Electronics from XYZ University
-                    </p>
-                    <div class="text-center">
-                        <button class="btn btn-primary" data-toggle="modal" data-target="#facultyModal2" style="background-color: #007bff; border-color: #007bff;">View Profile</button>
-                    </div>
-                </div>
-            </div>
-        </div>
-
-        <!-- Faculty 3 -->
-        <div class="col-md-4 mb-4">
-            <div class="card shadow-lg" style="border-radius: 10px; background-color: #f9e2e2;">
-                <img src="faculty3.jpg" class="card-img-top" alt="Prof. Alice Green" style="border-radius: 10px 10px 0 0; height: 250px; object-fit: cover;">
-                <div class="card-body">
-                    <h5 class="card-title text-center" style="color: #d9534f;">Prof. Alice Green</h5>
-                    <p class="card-text text-center" style="font-size: 16px; color: #555;">
-                        <strong>Position:</strong> Professor, Department of Civil Engineering<br>
-                        <strong>Education:</strong> PhD in Structural Engineering from DEF University
-                    </p>
-                    <div class="text-center">
-                        <button class="btn btn-primary" data-toggle="modal" data-target="#facultyModal3" style="background-color: #d9534f; border-color: #d9534f;">View Profile</button>
-                    </div>
-                </div>
+<!-- Faculty 2 -->
+<div class="col-md-4 mb-4">
+    <div class="card shadow-lg" style="border-radius: 10px; background-color: #e9f7fb;">
+        <img src="PROJECT/BIT Durg College_files/Dr. Jane Smith.png" class="card-img-top" alt="Dr. Jane Smith" style="border-radius: 10px 10px 0 0; height: 250px; object-fit: cover;">
+        <div class="card-body">
+            <h5 class="card-title text-center" style="color: #007bff;">Dr. Jane Smith</h5>
+            <p class="card-text text-center" style="font-size: 16px; color: #555;">
+                <strong>Position:</strong> Associate Professor, Department of Electronics<br>
+                <strong>Education:</strong> MTech in Electronics from XYZ University
+            </p>
+            <div class="text-center">
+                <button class="btn btn-primary" data-toggle="modal" data-target="#facultyModal2" style="background-color: #007bff; border-color: #007bff;">View Profile</button>
             </div>
         </div>
     </div>
-</section>
+</div>
+
+<!-- Faculty 3 -->
+<div class="col-md-4 mb-4">
+    <div class="card shadow-lg" style="border-radius: 10px; background-color: #f9e2e2;">
+        <img src="PROJECT/BIT Durg College_files/Prof. Alice Green.png" class="card-img-top" alt="Prof. Alice Green" style="border-radius: 10px 10px 0 0; height: 250px; object-fit: cover;">
+        <div class="card-body">
+            <h5 class="card-title text-center" style="color: #d9534f;">Prof. Alice Green</h5>
+            <p class="card-text text-center" style="font-size: 16px; color: #555;">
+                <strong>Position:</strong> Professor, Department of Civil Engineering<br>
+                <strong>Education:</strong> PhD in Structural Engineering from DEF University
+            </p>
+            <div class="text-center">
+                <button class="btn btn-primary" data-toggle="modal" data-target="#facultyModal3" style="background-color: #d9534f; border-color: #d9534f;">View Profile</button>
+            </div>
+        </div>
+    </div>
+</div>
+
 
 <!-- Modals for Faculty Profiles -->
 <!-- Modal for Dr. John Doe -->
